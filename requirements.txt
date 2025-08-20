@@ -3,6 +3,7 @@ uvicorn
 langchain
 langchain-community
 langchain_openai
+faiss-cpu
 chromadb
 python-dotenv
 pandas
